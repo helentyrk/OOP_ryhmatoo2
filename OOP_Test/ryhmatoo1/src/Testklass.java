@@ -47,6 +47,7 @@ public class Testklass {
         String valik = scan4.next();
         System.out.println(valik);
 
+        //Kohtade valimine
         if (valik == "jah"){
             for (int i = 0; i < soovitudPiletiteArv; i++) {
                 //Soovitud rida
